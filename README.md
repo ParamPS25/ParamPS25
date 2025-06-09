@@ -5,7 +5,7 @@
 ---
 
 <picture>
-  <source media="(min-width: 768px)" srcset="https://wallsev.com/wp-content/uploads/2015/01/Classic-Superman-Logo-HD-Wallpaper.jpg">
+  <source media="(min-width: 600px)" srcset="https://wallsev.com/wp-content/uploads/2015/01/Classic-Superman-Logo-HD-Wallpaper.jpg">
   <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Just for Fun" height="200" align="right" style="float: right; margin-left: 20px; margin-bottom: 20px; z-index : 99"/>
 </picture>
 
@@ -51,7 +51,7 @@ Here are a few projects I'm working on or have built:
   
 - 🎮 **Blogex** – BlogEx — A blog app where users can sign up, post blogs with cover images, comment, upvote, read full posts, and generate AI summaries.
    
-- 🎯 **WiChat** – Real time chat app with socket.io and zustand 
+- 🎯 **WiChat** – WiChat is a real-time full-stack chat app with live messaging, user status, and image sharing. Features include 30+ themes, chat pagination, and secure JWT auth with HTTP-only cookies. 
 
 > Want to collaborate on a project? Reach out through LinkedIn or email!
 
